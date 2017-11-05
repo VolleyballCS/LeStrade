@@ -1,0 +1,8 @@
+{
+  "name": "LeStrade",
+  "version": "0.1",
+  "description": "Information bot for the Academy of Deduction",
+  "main": "bot.js",
+  "author": "VB",
+  "dependencies": {}
+}
